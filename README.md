@@ -1,7 +1,18 @@
 # IF-MMIN
 
-This repo implements the Invariant Feature aware Missing Modality Imagination Network(IF-MMIN) for the following paper:
-"Exploiting modality-invariant feature for robust multimodal emotion recognition with missing modalities" 
+ 
+## Introduction
+This is an implementation of the following paper.
+> [Exploiting modality-invariant feature for robust multimodal emotion recognition with missing modalities.](https://arxiv.org/abs/2210.15359)
+> Submitted to ICASSP'2023
+
+Haolin Zuo, [Rui Liu *](https://ttslr.github.io/), [Jinming Zhao](https://scholar.google.com/citations?user=XskCnD8AAAAJ&hl=en), Guanglai Gao, [Haizhou Li](https://colips.org/~eleliha/).
+ 
+
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.15359)
+
+
+
 
 # Environment
 
